@@ -1,4 +1,4 @@
-Frontend-Developer
+Front-end Developer
 ------------------
 
 * ✉️  You can contact me at [mojtabahemmat9@gmail.com](mailto:mojtabahemmat9@gmail.com)
